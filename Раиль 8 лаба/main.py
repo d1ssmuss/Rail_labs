@@ -13,8 +13,6 @@
 раскраска
 поворот вокруг одной из граничных вершин
 """
-
-
 from tkinter.messagebox import showerror, showwarning, showinfo
 import tkinter as tk
 from tkinter import colorchooser
